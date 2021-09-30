@@ -7,10 +7,11 @@
 		<li><a href="http://www.nrityabharati.net" target="_blank">Nritya Bharati, Doomdooma</a></li>
 		<li><a href="http://www.modernacademyrupai.in" target="_blank">Modern Academy, Rupai</a></li>
 		<li><a href="http://www.anakumacademy.com" target="_blank">Anakum Academy, Roing</a></li>
+		<li><a href="https://dhsklawcollege.org/" target="_blank">DHSK Law College, Dibrugarh</a></li>
 		<li><a href="http://http://pcbsolution.co.in/?i=1" target="_blank">PCB Learning and Infotech Solutions, Morigaon</a></li>
-		<li><a href="http://www.aimgroupindia.in" target="_blank">Aim Computer Academy, Digboi</a></li>
 		<li><a href="https://www.trivane.com" target="_blank">Trivane, Guwahati</a></li>
-		<li><a href="http://www.nedigital.in" target="_blank">NorthEast Digital</a></li>
+		<li><a href="http://gaakhir.com/" target="_blank">Gaakhir</a></li>
+		<li><a href="http://sadiyacollege.org.in/" target="_blank">Sadiya College, Sadiya</a></li>
 	</ul>
 </p>
 
